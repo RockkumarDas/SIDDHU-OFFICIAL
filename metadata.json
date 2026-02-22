@@ -1,0 +1,8 @@
+{
+  "name": "Dynasty Pro",
+  "description": "Professional mobile video editing suite with AI-powered features, multi-layer timeline, and cinematic effects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
